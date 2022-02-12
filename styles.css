@@ -1,0 +1,32 @@
+body {
+    background-color: gray;
+    margin: 0;
+}
+
+header {
+    background-color: white;
+    padding: 10px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.post {
+    background-color: white;
+    margin-top: 10px;
+}
+
+.post img {
+    width: 100%;
+}
+
+.post h2, .post p {
+    padding: 10px;
+    margin: 0;
+}
+
+.container {
+    width: 600px;
+    margin: auto;
+}
